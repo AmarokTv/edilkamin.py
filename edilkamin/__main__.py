@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 """Edilkamin CLI - Control Edilkamin pellet stoves from the command line."""
 
+from __future__ import annotations
+
 import argparse
 import json
 import os
